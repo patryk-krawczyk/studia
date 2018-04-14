@@ -9,3 +9,6 @@ zmiana 1
 zmiana 2
 
 COPYA
+
+
+Takie tam różne zmiany w kopii A
