@@ -7,3 +7,5 @@ qwewqewqe
 zmiana 1 
 
 zmiana 2
+
+COPYA
